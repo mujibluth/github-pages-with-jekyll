@@ -2,4 +2,4 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hello everyone 👋, introduce my name 👨‍💻 is Abdul Mujiburrohman Luthfi and I am an 🎒 Intern Software Engineer with a specific field is 🏗 website development
