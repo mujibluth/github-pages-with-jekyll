@@ -1,13 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Learning GitHub Pages of [My GitHub](https://github.com/mujibluth)
+author: Abdul Mujiburrohman Luthfi
+email: abdulmujiburrohman.2019@student.uny.ac.id
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I built this GitHub Pages with the aim of completing my coursework task 📝📝
+  and at the same time deepening my knowledge 👨‍🎓 of Workflows from GitHub Pages. Happy Learning 🥳
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: mujibluth # DO NOT include the @ character, or else the build will fail!
+github_username:  mujibluth # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
